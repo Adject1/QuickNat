@@ -15,37 +15,37 @@ HEADERS = {
 
 # Bugs evidence of presence - Attribute ID 22
 ANNOTATION_EOP = {
-    "f": 23, # Feather
-    "o": 24, # Organism
-    "s": 25, # Scat
-    "t": 26, # Track
-    "b": 27, # Bone
-    "e": 30, # Egg
+    "f": 23,  # Feather
+    "o": 24,  # Organism
+    "s": 25,  # Scat
+    "t": 26,  # Track
+    "b": 27,  # Bone
+    "e": 30,  # Egg
     "c": 35  # Construction
 }
 
 # Alive or Dead - Attribute ID 17
 ANNOTATION_LIFE = {
-    "a": 18, # Alive
-    "d": 19, # Dead
+    "a": 18,  # Alive
+    "d": 19,  # Dead
     "c": 20  # Cannnot Be Determined
 }
 
 # Life Stage - Attribute ID 1
 ANNOTATION_STAGE = {
-    "a": 2, # Adult
-    "t": 3, # Teneral
-    "p": 4, # Pupa
-    "n": 5, # Nymph
-    "l": 6, # Larva
-    "e": 7, # Egg
+    "a": 2,  # Adult
+    "t": 3,  # Teneral
+    "p": 4,  # Pupa
+    "n": 5,  # Nymph
+    "l": 6,  # Larva
+    "e": 7,  # Egg
     "j": 8  # Juvenile
 }
 
 # Sex - Attribute ID 9
 ANNOTATION_SEX = {
-    "f": 10, # Female
-    "m": 11, # Male
+    "f": 10,  # Female
+    "m": 11,  # Male
     "c": 20  # Cannot Be Determined
 }
 
